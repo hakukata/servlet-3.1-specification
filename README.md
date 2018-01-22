@@ -1,5 +1,7 @@
 # JSR 340: Java Servlet 3.1 Specification《Java Servlet 3.1 规范》
 
+> 本开源书 forked from [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/servlet-3.1-specification)，以便获得最新更新，谢谢！
+
 This is a Chinese translation of [Java Servlet 3.1 Specification](https://jcp.org/en/jsr/detail?id=340), and also provides a lot of useful examples about Servlet 3.1 .
 
 The intended audience for this specification includes the following groups:
